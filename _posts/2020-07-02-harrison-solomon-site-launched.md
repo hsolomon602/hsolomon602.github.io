@@ -1,10 +1,7 @@
 ---
 layout: post
-title: "Harrison Solomon, The Big Stack Bully, Launches Site"
-date: 2020-07-02
+title: "Hank Quinlan, Horrible Cop, Launches Site"
+date: 2014-04-30
 ---
 
-<div class="blurb">
-	<h1>Hi there, I'm Hank Quinlan!</h1>
-	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-</div><!-- /.blurb -->
+Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
