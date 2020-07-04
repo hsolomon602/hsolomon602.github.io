@@ -1,2 +1,4 @@
 name: Harrison Solomon, The Big Stack Bully
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
